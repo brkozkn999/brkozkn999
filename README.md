@@ -1,3 +1,5 @@
+[![](https://visitcount.itsvg.in/api?id=brkozkn999&icon=5&color=0)](https://visitcount.itsvg.in)
+---
 # 💫 About Me:
 - 🔭 I’m currently working on ...<br>- 🌱 I’m currently learning ...<br>- 👯 I’m looking to collaborate on ...<br>- 🤔 I’m looking for help with ...<br>- 💬 Ask me about ...<br>- 📫 How to reach me: ...<br>- 😄 Pronouns: ...<br>- ⚡ Fun fact: ...
 
@@ -9,7 +11,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=brkozkn999&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=brkozkn999&icon=5&color=0)](https://visitcount.itsvg.in)
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/ibrahimberkozkan37) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ibrahimberkozkan34) 
