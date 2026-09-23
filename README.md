@@ -1,11 +1,99 @@
-# 💫 About:
-👋🏽 It’s Berk<br>👨🏽‍💻 Currently working on Web Applications<br>👨🏽‍🎓 Studied Computer Programming at the Medipol University, İstanbul<br>💭 Currently learning about FrontEnd Development
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0A0F,50:4C1D95,100:FF2E63&height=220&section=header&text=Berk%20%C3%96zkan&fontSize=72&fontColor=F5F3FF&fontAlignY=38&animation=twinkling&desc=frontend%20developer%20%C2%B7%20istanbul&descSize=18&descAlignY=60"/>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-%23005C0F.svg?style=for-the-badge&logo=Thymeleaf&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=A855F7&center=true&vCenter=true&width=640&lines=frontend+developer;react+%C2%B7+next.js+%C2%B7+angular;spring+boot+%C2%B7+typescript;code+by+day%2C+808s+by+night" alt="Typing SVG"/></a>
+</p>
 
-# 📊 GitHub Stats:
-[![GitHub Streak](https://streak-stats.demolab.com?user=brkozkn999&theme=transparent&hide_border=true&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
+### `> whoami`
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/ibrahimberkozkan37) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ibrahimberkozkan34) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/24884343) 
+```ts
+const berk = {
+  role: "Frontend Developer",
+  location: "İstanbul, Türkiye",
+  education: "Computer Programming · Medipol University",
+  stack: ["TypeScript", "React", "Next.js", "Angular", "Spring Boot"],
+  building: "web applications",
+  byNight: "producing as scum",
+};
+```
+
+### `> stack`
+
+**frontend**
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,angular,bootstrap,jquery,vite&theme=dark" />
+</p>
+
+**backend & languages**
+<p>
+  <img src="https://skillicons.dev/icons?i=java,spring,c,cpp&theme=dark" />
+</p>
+
+**databases**
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql&theme=dark" />
+</p>
+
+**tools & design**
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vercel,idea,ps,ae,pr,blender&theme=dark" />
+</p>
+
+**also in the toolbox**
+<p>
+  <img src="https://img.shields.io/badge/-MSSQL-1F1F2E?style=flat-square&logo=microsoftsqlserver&logoColor=CC2927"/>
+  <img src="https://img.shields.io/badge/-Swagger-1F1F2E?style=flat-square&logo=swagger&logoColor=85EA2D"/>
+  <img src="https://img.shields.io/badge/-JWT-1F1F2E?style=flat-square&logo=jsonwebtokens&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Maven-1F1F2E?style=flat-square&logo=apachemaven&logoColor=C71A36"/>
+  <img src="https://img.shields.io/badge/-Tomcat-1F1F2E?style=flat-square&logo=apachetomcat&logoColor=F8DC75"/>
+</p>
+
+### `> shipping`
+
+<p align="center">
+  <a href="https://github.com/brkozkn999/FileServiceApp"><img height="130" src="https://github-stats-extended.vercel.app/api/pin/?username=brkozkn999&repo=FileServiceApp&bg_color=0D1117&title_color=A855F7&icon_color=FF2E63&text_color=C9D1D9&hide_border=true"/></a>
+  <a href="https://github.com/brkozkn999/UrlShortenerAppv2"><img height="130" src="https://github-stats-extended.vercel.app/api/pin/?username=brkozkn999&repo=UrlShortenerAppv2&bg_color=0D1117&title_color=A855F7&icon_color=FF2E63&text_color=C9D1D9&hide_border=true"/></a>
+</p>
+
+### `> stats`
+
+<p align="center">
+  <img height="170" src="https://github-stats-extended.vercel.app/api?username=brkozkn999&show_icons=true&count_private=true&bg_color=0D1117&title_color=A855F7&icon_color=FF2E63&text_color=C9D1D9&hide_border=true"/>
+  <img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=brkozkn999&layout=compact&langs_count=8&bg_color=0D1117&title_color=A855F7&text_color=C9D1D9&hide_border=true"/>
+</p>
+
+<details>
+  <summary><b>more stats</b></summary>
+  <br>
+  <p align="center">
+    <img src="https://streak-stats.demolab.com?user=brkozkn999&theme=dark&background=0D1117&ring=A855F7&fire=FF2E63&currStreakNum=F5F3FF&sideNums=C9D1D9&currStreakLabel=FF2E63&sideLabels=A855F7&dates=8B8B9E&hide_border=true"/>
+    <img width="98%" src="https://ghchart.xqsit94.in/dark:A855F7/brkozkn999" alt="contribution chart"/>
+  </p>
+</details>
+
+### `> off the clock`
+
+when the IDE closes: in the studio, producing as **scum** — dark 808s, late nights. 🎙️
+
+<!-- add your artist links when ready:
+<a href="SPOTIFY_ARTIST_URL"><img src="https://img.shields.io/badge/scum-Spotify-1F1F2E?style=flat-square&logo=spotify&logoColor=1DB954"/></a>
+<a href="SOUNDCLOUD_URL"><img src="https://img.shields.io/badge/scum-SoundCloud-1F1F2E?style=flat-square&logo=soundcloud&logoColor=FF3300"/></a>
+-->
+
+### `> connect`
+
+<p>
+  <a href="https://ibrahim-berks-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-FF2E63?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/ibrahimberkozkan34"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://stackoverflow.com/users/24884343"><img src="https://img.shields.io/badge/Stack%20Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white"/></a>
+  <a href="https://facebook.com/ibrahimberkozkan37"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+</p>
+
+<!-- optional: contribution snake — requires .github/workflows/snake.yml (Platane/snk@v3) generating svgs to the `output` branch
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/brkozkn999/brkozkn999/output/github-snake-dark.svg"/>
+  <img alt="snake" src="https://raw.githubusercontent.com/brkozkn999/brkozkn999/output/github-snake.svg"/>
+</picture>
+-->
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF2E63,50:4C1D95,100:0A0A0F&height=120&section=footer"/>
