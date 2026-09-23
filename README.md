@@ -1,7 +1,14 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0A0F,50:4C1D95,100:FF2E63&height=220&section=header&text=Berk%20%C3%96zkan&fontSize=72&fontColor=F5F3FF&fontAlignY=38&animation=twinkling&desc=frontend%20developer%20%C2%B7%20istanbul&descSize=18&descAlignY=60"/>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=A855F7&center=true&vCenter=true&width=640&lines=frontend+developer;react+%C2%B7+next.js+%C2%B7+angular;spring+boot+%C2%B7+typescript;code+by+day%2C+808s+by+night" alt="Typing SVG"/></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=A855F7&center=true&vCenter=true&width=640&lines=frontend+developer;typescript+%C2%B7+react+%C2%B7+next.js;spring+boot+%C2%B7+angular+%C2%B7+sql;shipping+web+apps+from+istanbul" alt="Typing SVG"/></a>
+</p>
+
+<p align="center">
+  <a href="https://ibrahim-berks-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-FF2E63?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/ibrahimberkozkan34"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://stackoverflow.com/users/24884343"><img src="https://img.shields.io/badge/Stack%20Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white"/></a>
+  <a href="https://facebook.com/ibrahimberkozkan37"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
 </p>
 
 ### `> whoami`
@@ -13,7 +20,7 @@ const berk = {
   education: "Computer Programming · Medipol University",
   stack: ["TypeScript", "React", "Next.js", "Angular", "Spring Boot"],
   building: "web applications",
-  byNight: "producing as scum",
+  learning: "frontend architecture & DX",
 };
 ```
 
@@ -70,24 +77,6 @@ const berk = {
     <img width="98%" src="https://ghchart.xqsit94.in/dark:A855F7/brkozkn999" alt="contribution chart"/>
   </p>
 </details>
-
-### `> off the clock`
-
-when the IDE closes: in the studio, producing as **scum** — dark 808s, late nights. 🎙️
-
-<!-- add your artist links when ready:
-<a href="SPOTIFY_ARTIST_URL"><img src="https://img.shields.io/badge/scum-Spotify-1F1F2E?style=flat-square&logo=spotify&logoColor=1DB954"/></a>
-<a href="SOUNDCLOUD_URL"><img src="https://img.shields.io/badge/scum-SoundCloud-1F1F2E?style=flat-square&logo=soundcloud&logoColor=FF3300"/></a>
--->
-
-### `> connect`
-
-<p>
-  <a href="https://ibrahim-berks-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-FF2E63?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/ibrahimberkozkan34"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://stackoverflow.com/users/24884343"><img src="https://img.shields.io/badge/Stack%20Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white"/></a>
-  <a href="https://facebook.com/ibrahimberkozkan37"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
-</p>
 
 <!-- optional: contribution snake — requires .github/workflows/snake.yml (Platane/snk@v3) generating svgs to the `output` branch
 <picture>
