@@ -1,7 +1,7 @@
 <!-- header: dark = github koyusu ile eriyen violet→pink dalga / light = pastel lavanta→pembe -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,60:6D28D9,100:DB2777&height=220&section=header&text=Berk%20%C3%96zkan&fontSize=72&fontColor=F5F3FF&fontAlignY=38&animation=twinkling&desc=frontend%20developer%20%C2%B7%20istanbul&descSize=18&descAlignY=60"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:F5F3FF,55:C4B5FD,100:FBCFE8&height=220&section=header&text=Berk%20%C3%96zkan&fontSize=72&fontColor=312E81&fontAlignY=38&animation=twinkling&desc=frontend%20developer%20%C2%B7%20istanbul&descSize=18&descAlignY=60"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117%2C60:6D28D9%2C100:DB2777&height=220&section=header&text=Berk%20%C3%96zkan&fontSize=72&fontColor=F5F3FF&fontAlignY=38&animation=twinkling&desc=frontend%20developer%20%C2%B7%20istanbul&descSize=18&descAlignY=60"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:F5F3FF%2C55:C4B5FD%2C100:FBCFE8&height=220&section=header&text=Berk%20%C3%96zkan&fontSize=72&fontColor=312E81&fontAlignY=38&animation=twinkling&desc=frontend%20developer%20%C2%B7%20istanbul&descSize=18&descAlignY=60"/>
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,60:6D28D9,100:DB2777&height=220&section=header&text=Berk%20%C3%96zkan&fontSize=72&fontColor=F5F3FF&fontAlignY=38&animation=twinkling&desc=frontend%20developer%20%C2%B7%20istanbul&descSize=18&descAlignY=60" alt="header"/>
 </picture>
 
@@ -38,8 +38,8 @@ const berk = {
 **frontend**
 <p>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,angular,bootstrap,jquery,vite&theme=dark"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,angular,bootstrap,jquery,vite&theme=light"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=html%2Ccss%2Cjs%2Cts%2Creact%2Cnextjs%2Cangular%2Cbootstrap%2Cjquery%2Cvite&theme=dark"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=html%2Ccss%2Cjs%2Cts%2Creact%2Cnextjs%2Cangular%2Cbootstrap%2Cjquery%2Cvite&theme=light"/>
     <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,angular,bootstrap,jquery,vite&theme=dark"/>
   </picture>
 </p>
@@ -47,8 +47,8 @@ const berk = {
 **backend & languages**
 <p>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=java,spring,c,cpp&theme=dark"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=java,spring,c,cpp&theme=light"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=java%2Cspring%2Cc%2Ccpp&theme=dark"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=java%2Cspring%2Cc%2Ccpp&theme=light"/>
     <img src="https://skillicons.dev/icons?i=java,spring,c,cpp&theme=dark"/>
   </picture>
 </p>
@@ -56,8 +56,8 @@ const berk = {
 **databases**
 <p>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=postgres,mysql&theme=dark"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=postgres,mysql&theme=light"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=postgres%2Cmysql&theme=dark"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=postgres%2Cmysql&theme=light"/>
     <img src="https://skillicons.dev/icons?i=postgres,mysql&theme=dark"/>
   </picture>
 </p>
@@ -65,8 +65,8 @@ const berk = {
 **tools & design**
 <p>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=git,github,postman,vercel,idea,ps,ae,pr,blender&theme=dark"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=git,github,postman,vercel,idea,ps,ae,pr,blender&theme=light"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=git%2Cgithub%2Cpostman%2Cvercel%2Cidea%2Cps%2Cae%2Cpr%2Cblender&theme=dark"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=git%2Cgithub%2Cpostman%2Cvercel%2Cidea%2Cps%2Cae%2Cpr%2Cblender&theme=light"/>
     <img src="https://skillicons.dev/icons?i=git,github,postman,vercel,idea,ps,ae,pr,blender&theme=dark"/>
   </picture>
 </p>
@@ -136,7 +136,7 @@ const berk = {
 
 <!-- footer: header'ın aynası -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:DB2777,60:6D28D9,100:0D1117&height=120&section=footer"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:FBCFE8,55:C4B5FD,100:F5F3FF&height=120&section=footer"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:DB2777%2C60:6D28D9%2C100:0D1117&height=120&section=footer"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:FBCFE8%2C55:C4B5FD%2C100:F5F3FF&height=120&section=footer"/>
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:DB2777,60:6D28D9,100:0D1117&height=120&section=footer" alt="footer"/>
 </picture>
