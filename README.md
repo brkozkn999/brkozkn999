@@ -29,7 +29,7 @@ const berk = {
   education: "Computer Programming · Medipol University",
   stack: ["TypeScript", "React", "Next.js", "Angular", "Spring Boot"],
   building: "web applications",
-  learning: "frontend architecture & DX",
+  working: "frontend architecture & DX",
 };
 ```
 
